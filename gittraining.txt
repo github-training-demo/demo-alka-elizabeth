@@ -1,2 +1,3 @@
 Hello
 Cool!
+Edits made in the new branch
